@@ -2,6 +2,7 @@
 This section showcases my data analytics projects, emphasizing the practical application of data science techniques to address real-world problems. Each project highlights the specific technology stack, methodologies, and approaches used to extract insights, validate hypotheses, and develop predictive models.
 
 **Exploratory Data Analysis - TikTok**
+
 The project involves analyzing a TikTok dataset to extract meaningful insights. The analysis begins with data loading, cleaning, and preprocessing. Exploratory techniques are applied to summarize and visualize the data, followed by a deeper statistical analysis to identify patterns. Specific steps include handling duplicates, analyzing feature distributions, identifying correlations, and investigating relationships between key variables such as engagement rates, video views, and post timings.
 
 - Code: EDA_TikTok.ipynb
