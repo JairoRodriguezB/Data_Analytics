@@ -44,3 +44,18 @@ The project involves analyzing TikTok engagement data to evaluate differences in
 - Technology: Python, Pandas, Numpy, Scipy.
 
 - Results: The analysis revealed meaningful differences between groups through statistical testing, offering actionable insights into engagement strategies and performance optimization.
+
+
+**Data Validation in Machine Learning**
+
+This project focuses on implementing data validation techniques within a machine learning workflow to ensure data quality and integrity. The process involves loading datasets, performing validation checks, and preprocessing data to meet the requirements of machine learning algorithms. Key steps include handling missing values, verifying data types, and ensuring data consistency.
+
+- Code: Data_Validation.ipynb
+
+- Goal: To establish robust data validation procedures that enhance the reliability and performance of machine learning models by ensuring the input data is accurate and properly formatted.
+
+- Skills: Data validation, data cleaning, preprocessing, error detection
+
+- Technology: Python, Pandas, NumPy, Scikit-learn.
+
+- Results: The implementation of data validation steps led to improved data quality, reducing errors and inconsistencies. This foundation supports the development of more accurate and reliable machine learning models.
