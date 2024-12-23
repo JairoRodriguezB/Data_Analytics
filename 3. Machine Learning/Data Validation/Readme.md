@@ -1,4 +1,4 @@
-# test
+# **SOFTWARE TESTING FOR RELIABLE DATA SYNTHESIS FOR CLASSIFICATION MODELS**
 
 
 **Objective:** The objective of the project is to develop a machine learning pipeline that addresses class imbalance while ensuring data quality and model reliability. This includes a general implementing data preprocessing, synthesizing additional data using techniques like SMOTE and ADASYN, validating the integrity of synthesized data, and improving classification performance through evaluation of models such as Logistic Regression and Random Forest.
