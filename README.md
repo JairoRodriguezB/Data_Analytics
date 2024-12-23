@@ -14,3 +14,18 @@ The project involves analyzing a TikTok dataset to extract meaningful insights. 
 - Technology: Python, Pandas, Numpy, Seaborn, Matplotlib.
 
 - Results: The analysis highlighted key trends, such as the correlation between post timings and engagement rates, revealing actionable insights for optimizing content strategies. Additionally, engagement rates were found to vary significantly across video durations, providing valuable data-driven recommendations.
+
+
+**A/B Testing - Automatidata**
+
+The project focuses on analyzing taxi trip data to evaluate key relationships and differences in trip and payment characteristics through A/B testing. The process includes loading, cleaning, and preprocessing the data, followed by exploratory data analysis (EDA) to summarize and visualize distributions. Statistical hypothesis testing is applied to compare groups and uncover significant patterns, ensuring assumptions like normality and variance homogeneity are met.
+
+- Code: AB_testing_Automatidata.ipynb
+
+- Goal: To identify statistically significant differences between groups in taxi trip data, providing actionable insights into payment trends and trip characteristics.
+
+- Skills: Data cleaning, hypothesis testing, descriptive statistics, data visualization, assumption validation.
+
+- Technology: Python, Pandas, Numpy, Scipy, Matplotlib, Seaborn.
+
+- Results: The analysis revealed meaningful differences between groups, supported by statistical tests, and provided insights into key trip metrics. Visualization of distributions and hypothesis testing outcomes highlighted actionable trends for decision-making.
