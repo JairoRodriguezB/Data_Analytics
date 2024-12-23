@@ -4,11 +4,11 @@
 
 **1. Project Overview**
 
-**Objective:** The objective of the project is to develop a machine learning pipeline that addresses class imbalance while ensuring data quality and model reliability. This includes a general implementing data preprocessing, synthesizing additional data using techniques like SMOTE and ADASYN, validating the integrity of synthesized data, and improving classification performance through evaluation of models such as Logistic Regression and Random Forest.
+- **Objective:** The objective of the project is to develop a machine learning pipeline that addresses class imbalance while ensuring data quality and model reliability. This includes a general implementing data preprocessing, synthesizing additional data using techniques like SMOTE and ADASYN, validating the integrity of synthesized data, and improving classification performance through evaluation of models such as Logistic Regression and Random Forest.
 
-**Dataset:** This project utilizes a dataset titled HR_capstone_dataset.csv, which contains self-reported information from employees of a fictional multinational vehicle manufacturing corporation. The dataset comprises 10 columns and 14,999 rows, with each row representing the self-reported data of a unique employee.
+- **Dataset:** This project utilizes a dataset titled HR_capstone_dataset.csv, which contains self-reported information from employees of a fictional multinational vehicle manufacturing corporation. The dataset comprises 10 columns and 14,999 rows, with each row representing the self-reported data of a unique employee.
 
-**Scenario:** The scenario associated with the dataset involves the fictional company facing a significant challenge with high employee turnover, which impacts both its finances and efforts to maintain a supportive corporate culture. To address this, the dataset includes key information such as job titles, departments, project counts, average monthly hours, and other relevant factors. The response variable, 'left', indicates whether or not an employee has left the company.
+- **Scenario:** The scenario associated with the dataset involves the fictional company facing a significant challenge with high employee turnover, which impacts both its finances and efforts to maintain a supportive corporate culture. To address this, the dataset includes key information such as job titles, departments, project counts, average monthly hours, and other relevant factors. The response variable, 'left', indicates whether or not an employee has left the company.
 
 <br>
 
