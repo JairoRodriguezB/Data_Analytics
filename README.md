@@ -31,6 +31,7 @@ The project involves analyzing taxi trip data to evaluate differences in trip an
 
 - Results: The analysis uncovered meaningful differences between groups through statistical testing, offering actionable insights for optimizing trip and payment processes.
 
+<br>
 
 **3. A/B Testing - TikTok**
 
@@ -46,6 +47,7 @@ The project involves analyzing TikTok engagement data to evaluate differences in
 
 - Results: The analysis revealed meaningful differences between groups through statistical testing, offering actionable insights into engagement strategies and performance optimization.
 
+<br>
 
 **4. Data Validation in Machine Learning**
 
