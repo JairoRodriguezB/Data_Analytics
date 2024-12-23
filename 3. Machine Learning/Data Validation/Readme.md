@@ -7,6 +7,8 @@
 
 **Scenario:** The scenario associated with the dataset involves the fictional company facing a significant challenge with high employee turnover, which impacts both its finances and efforts to maintain a supportive corporate culture. To address this, the dataset includes key information such as job titles, departments, project counts, average monthly hours, and other relevant factors. The response variable, 'left', indicates whether or not an employee has left the company.
 
+<br>
+
 **Project Architecture and Module Overview**
 
 This section outlines the modules that constitute the project, detailing their functionality and role within the overall workflow. Each module is designed to address specific tasks such as data preprocessing, class balancing, validation, model training, and performance visualization.
