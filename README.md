@@ -5,7 +5,7 @@ This section showcases my data analytics projects, emphasizing the practical app
 
 The project involves analyzing a TikTok dataset to extract meaningful insights. The analysis begins with data loading, cleaning, and preprocessing. Exploratory techniques are applied to summarize and visualize the data, followed by a deeper statistical analysis to identify patterns. Specific steps include handling duplicates, analyzing feature distributions, identifying correlations, and investigating relationships between key variables such as engagement rates, video views, and post timings.
 
-- Code: EDA_TikTok.ipynb
+- Code: [EDA TikTok](https://github.com/JairoRodriguezB/Data_Analytics/blob/main/1.%20EDA/EDA_TikTok.ipynb)
 
 - Goal: To uncover patterns and insights within TikTok-related data, focusing on understanding the dataset's structure and key characteristics.
 
