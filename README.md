@@ -18,14 +18,29 @@ The project involves analyzing a TikTok dataset to extract meaningful insights. 
 
 **A/B Testing - Automatidata**
 
-The project focuses on analyzing taxi trip data to evaluate key relationships and differences in trip and payment characteristics through A/B testing. The process includes loading, cleaning, and preprocessing the data, followed by exploratory data analysis (EDA) to summarize and visualize distributions. Statistical hypothesis testing is applied to compare groups and uncover significant patterns, ensuring assumptions like normality and variance homogeneity are met.
+The project involves analyzing taxi trip data to evaluate differences in trip and payment characteristics using A/B testing. The process includes data loading, cleaning, and preprocessing, followed by statistical hypothesis testing to compare groups. Assumptions like normality and homogeneity of variances are validated to ensure the reliability of the results.
 
 - Code: AB_testing_Automatidata.ipynb
 
-- Goal: To identify statistically significant differences between groups in taxi trip data, providing actionable insights into payment trends and trip characteristics.
+- Goal: To identify statistically significant differences in taxi trip data, providing actionable insights into payment trends and trip characteristics.
 
-- Skills: Data cleaning, hypothesis testing, descriptive statistics, data visualization, assumption validation.
+- Skills: Data cleaning, hypothesis testing, descriptive statistics, assumption validation.
 
-- Technology: Python, Pandas, Numpy, Scipy, Matplotlib, Seaborn.
+- Technology: Python, Pandas, Numpy, Scipy.
 
-- Results: The analysis revealed meaningful differences between groups, supported by statistical tests, and provided insights into key trip metrics. Visualization of distributions and hypothesis testing outcomes highlighted actionable trends for decision-making.
+- Results: The analysis uncovered meaningful differences between groups through statistical testing, offering actionable insights for optimizing trip and payment processes.
+
+
+**A/B Testing - TikTok**
+
+The project involves analyzing TikTok engagement data to evaluate differences in key metrics using A/B testing. The analysis begins with data loading, cleaning, and preprocessing. Statistical hypothesis testing is performed to assess significant differences in engagement rates, views, and other metrics between groups, ensuring that assumptions like normality and variance homogeneity are validated.
+
+- Code: AB_testing_TikTok.ipynb
+
+- Goal: To uncover statistically significant differences in TikTok engagement data, providing actionable insights for optimizing strategies.
+
+- Skills: Data cleaning, hypothesis testing, descriptive statistics, assumption validation.
+
+- Technology: Python, Pandas, Numpy, Scipy.
+
+- Results: The analysis revealed meaningful differences between groups through statistical testing, offering actionable insights into engagement strategies and performance optimization.
