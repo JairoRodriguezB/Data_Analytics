@@ -1,6 +1,6 @@
 # test
 
-<div style="text-align: justify;">
+
 **Objective:** The objective of the project is to develop a machine learning pipeline that addresses class imbalance while ensuring data quality and model reliability. This includes a general implementing data preprocessing, synthesizing additional data using techniques like SMOTE and ADASYN, validating the integrity of synthesized data, and improving classification performance through evaluation of models such as Logistic Regression and Random Forest.
 
 **Dataset:** This project utilizes a dataset titled HR_capstone_dataset.csv, which contains self-reported information from employees of a fictional multinational vehicle manufacturing corporation. The dataset comprises 10 columns and 14,999 rows, with each row representing the self-reported data of a unique employee.
@@ -11,6 +11,7 @@
 
 This section outlines the modules that constitute the project, detailing their functionality and role within the overall workflow. Each module is designed to address specific tasks such as data preprocessing, class balancing, validation, model training, and performance visualization.
 
+<div style="text-align: justify;">
 - **data_balancer.py (Data Balancing and Threshold Generation):** This module manages class imbalance in the dataset using advanced techniques such as SMOTE and ADASYN, generating synthetic samples for minority classes to ensure balanced distributions. Additionally, it provides functions to calculate feature ranges from the original dataset and generate thresholds, for the validation of synthesized data
 - **data_manager.py (Data Loading and Preprocessing):** This module handles the initial steps of data management, including loading datasets from CSV files, preprocessing the data, and splitting it into training and testing sets. It also manages tasks like handling missing values and encoding categorical features.
 - **data_validator.py (Validation of Synthesized Data):** This module ensures the integrity and reliability of the synthesized data by performing a series of validation tests. It includes tests for feature range compliance, class proximity, correlation consistency, and statistical distribution. Additionally, the module generates detailed Excel reports for each test.
