@@ -21,7 +21,7 @@ The project involves analyzing a TikTok dataset to extract meaningful insights. 
 
 The project involves analyzing taxi trip data to evaluate differences in trip and payment characteristics using A/B testing. The process includes data loading, cleaning, and preprocessing, followed by statistical hypothesis testing to compare groups. Assumptions like normality and homogeneity of variances are validated to ensure the reliability of the results.
 
-- Code: AB_testing_Automatidata.ipynb
+- Code: [AB Testing Automatidata](https://github.com/JairoRodriguezB/Data_Analytics/blob/main/2.%20AB%20Testing/AB_testing_Automatidata.ipynb)
 
 - Goal: To identify statistically significant differences in taxi trip data, providing actionable insights into payment trends and trip characteristics.
 
@@ -37,7 +37,7 @@ The project involves analyzing taxi trip data to evaluate differences in trip an
 
 The project involves analyzing TikTok engagement data to evaluate differences in key metrics using A/B testing. The analysis begins with data loading, cleaning, and preprocessing. Statistical hypothesis testing is performed to assess significant differences in engagement rates, views, and other metrics between groups, ensuring that assumptions like normality and variance homogeneity are validated.
 
-- Code: AB_testing_TikTok.ipynb
+- Code: [AB Testing TikTok](https://github.com/JairoRodriguezB/Data_Analytics/blob/main/2.%20AB%20Testing/AB_testing_TikTok.ipynb)
 
 - Goal: To uncover statistically significant differences in TikTok engagement data, providing actionable insights for optimizing strategies.
 
