@@ -53,7 +53,7 @@ The project involves analyzing TikTok engagement data to evaluate differences in
 
 This project focuses on implementing data validation techniques within a machine learning workflow to ensure data quality and integrity. The process involves loading datasets, performing validation checks, and preprocessing data to meet the requirements of machine learning algorithms. Key steps include handling missing values, verifying data types, and ensuring data consistency.
 
-- Code: Data_Validation.ipynb
+- Code: [Data Validation in Machine Learning](https://github.com/JairoRodriguezB/Data_Analytics/tree/main/3.%20Machine%20Learning/Data%20Validation)
 
 - Goal: To establish robust data validation procedures that enhance the reliability and performance of machine learning models by ensuring the input data is accurate and properly formatted.
 
