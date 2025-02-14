@@ -62,3 +62,20 @@ This project focuses on implementing data validation techniques within a machine
 - Technology: Python, Pandas, NumPy, Scikit-learn.
 
 - Results: The implementation of data validation steps led to improved data quality, reducing errors and inconsistencies. This foundation supports the development of more accurate and reliable machine learning models.
+
+<br>
+
+**5. Classification Analysis Using Perceptron and Least Squares Methods**
+
+This project involves analyzing a classification problem to evaluate differences in model performance using Perceptron and Least Squares classifiers. The analysis begins with data loading, preprocessing, and exploratory analysis to assess feature distributions, correlations, and class separability. Different classification scenarios are tested, and model performance is evaluated using misclassification rates and decision boundary visualizations.
+
+- Code: TBD
+
+- Goal: To compare the effectiveness of Perceptron and Least Squares classifiers in distinguishing species based on selected features, evaluating convergence behavior, feature importance, and classification accuracy.
+
+- Skills: Data preprocessing, descriptive statistics, feature encoding, data visualization, Classification modeling
+
+- Technology: Python, Pandas, NumPy, Seaborn, Matplotlib
+
+- Results: The analysis demonstrated that Least Squares outperformed the Perceptron in stability and classification accuracy, particularly in non-linearly separable cases. Petal-based features were the most effective for classification, while sepal-based features contributed less. The study highlights the importance of feature selection and classifier choice in Pattern recognition / machine learning applications.
+
