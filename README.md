@@ -69,7 +69,7 @@ This project focuses on implementing data validation techniques within a machine
 
 This project involves analyzing a classification problem to evaluate differences in model performance using Perceptron and Least Squares classifiers. The analysis begins with data loading, preprocessing, and exploratory analysis to assess feature distributions, correlations, and class separability. Different classification scenarios are tested, and model performance is evaluated using misclassification rates and decision boundary visualizations.
 
-- Code: TBD
+- Code: [Classification Analysis Using Perceptron and LS Methods](https://github.com/JairoRodriguezB/Data_Analytics/blob/main/3.%20Machine%20Learning/Pattern%20Recognition/Perceptron%20VS%20LS/Perceptron_VS_LS.ipynb)
 
 - Goal: To compare the effectiveness of Perceptron and Least Squares classifiers in distinguishing species based on selected features, evaluating convergence behavior, feature importance, and classification accuracy.
 
